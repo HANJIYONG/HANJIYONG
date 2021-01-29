@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Assembly language-A8B9CC?style=flat-square&logo=#654FF0&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Assembly language-A8B9CC?style=flat-square&logo=WebAssembly&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Sql-3766AB?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -15,14 +15,14 @@
   <img src="https://img.shields.io/badge/R-11B48A?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
   
   <br>
-  <img src="https://img.shields.io/badge/sckit learn-00599C?style=flat-square&logo=#F7931E&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/sckit learn-00599C?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Bootstrap-1572B6?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Keras-007396?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-007396?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spark-007396?style=flat-square&logo=#FF5C83&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Octave-007396?style=flat-square&logo=#0790C0&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spark-007396?style=flat-square&logo=Spark AR&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Octave-007396?style=flat-square&logo=Octave&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Matlab-007396?style=flat-square&logo=Mathworks&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/OpenCV-007396?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Pytorch-007396?style=flat-square&logo=PyTorch&logoColor=white"/></a> &nbsp 
