@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Sql-3766AB?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C Sharp-3766AB?style=flat-square&logo=#239120&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C Sharp-3766AB?style=flat-square&logo=c Sharp&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/R-11B48A?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
   
   <br>
