@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Matlab-007396?style=flat-square&logo=Mathworks&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/OpenCV-007396?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Pytorch-007396?style=flat-square&logo=PyTorch&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/TensorFlow-007396?style=flat-square&logo=PyTorch&logoColor=white"/></a> &nbsp 
+  <img src="https://img.shields.io/badge/TensorFlow-007396?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp 
   
   
 </p>
