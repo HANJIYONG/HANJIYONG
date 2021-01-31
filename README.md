@@ -1,5 +1,7 @@
 
-Velog:<p align="left"> https://velog.io/@jyong0719 </p>
+<p align="left">Velog: https://velog.io/@jyong0719 </p>
+
+[Advanced AI-Communication Lab (AACL)](https://sites.google.com/view/ai-comm-lab/home?authuser=0)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
