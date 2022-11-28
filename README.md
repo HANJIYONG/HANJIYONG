@@ -1,12 +1,13 @@
 
 <p align="left">Velog: https://velog.io/@jyong0719 </p>
 
-Since 2020<a href="https://sites.google.com/view/ai-comm-lab/home" rel="nofollow"> Advanced AI-Communication Lab (AACL) Master</a>
+(22.03 ~ ) Ph.D. student in Bio Engineering <a href="http://miil.snu.ac.kr/" rel="nofollow"> Medical Imabe Innovation Lab (MIIL)</a> <br>
+(22.09 ~ 23.02) Researcher intern in MIIL <a href="http://miil.snu.ac.kr/" rel="nofollow"> Medical Imabe Innovation Lab (MIIL)</a> <br>
+(21.09 ~ 22.07) R&D in MACH <a href="http://mach.hallym.or.kr/aicenter/" rel="nofollow"> Medical Ai center Hallym (MACH)</a> <br>
+(22.02) M.S in Computer Science <a href="https://sites.google.com/view/ai-comm-lab/home" rel="nofollow"> Advanced AI-Communication Lab (AACL)</a> <br>
+(20.08) B.S in Computer Science 
 
-Since 2021.10<a href="http://mach.hallym.or.kr/aicenter/" rel="nofollow"> Medical Ai center Hallym (MACH) R&D</a>
-
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<!-- <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
@@ -34,7 +35,7 @@ Since 2021.10<a href="http://mach.hallym.or.kr/aicenter/" rel="nofollow"> Medica
   <img src="https://img.shields.io/badge/TensorFlow-007396?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp 
   
   
-</p>
+</p> -->
 
 <br><br>
 <h3 align="center"> 📫 Me ✉ </h3>
