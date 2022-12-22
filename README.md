@@ -1,5 +1,6 @@
 
 <p align="left">Velog: https://velog.io/@jyong0719 </p>
+<p align="left">Git blog: https://hanjiyong.github.io </p>
 
 (22.03 ~ ) Ph.D. student in Bio Engineering <a href="http://miil.snu.ac.kr/" rel="nofollow"> Medical Imabe Innovation Lab (MIIL)</a> <br>
 (22.09 ~ 23.02) Researcher intern in MIIL <a href="http://miil.snu.ac.kr/" rel="nofollow"> Medical Imabe Innovation Lab (MIIL)</a> <br>
